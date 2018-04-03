@@ -1,5 +1,6 @@
 # traffic-simulation-de
 Source code for javascript simulation of  [www.traffic-simulation.de](http://www.traffic-simulation.de)
+This is a great platform for RL.
 
 ## Running the Simulation
 
